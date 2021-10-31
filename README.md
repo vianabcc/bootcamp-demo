@@ -22,3 +22,7 @@ Inside root project directory, run:
 ```sh
   ❯ uvicorn app:api:app --reload
 ``` 
+
+### Access documentation
+
+To access api documentation, click [here](http://localhost:8000/docs/)
