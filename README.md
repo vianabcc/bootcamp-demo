@@ -20,7 +20,7 @@ Inside root project directory, run:
 ### Run project
 
 ```sh
-  ❯ uvicorn app:api:app --reload
+  ❯ uvicorn app.api:app --reload
 ``` 
 
 ### Access documentation
